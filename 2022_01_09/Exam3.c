@@ -2,8 +2,8 @@
 
 int main()
 {
-	double dou;
-	scanf("%f", &dou);
-	printf("%.2f", dou);
+	float flo;
+	scanf("%f", &flo);
+	printf("%.2f", flo);
 	return 0;
 }
